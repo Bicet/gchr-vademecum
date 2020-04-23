@@ -28,6 +28,7 @@
 	* [Missing part and/or attention needed](#missing)
 	* [Article quotes and/or tables](#quote)
 	* [Ordered/Unordered, Nested, Bold Lists](#lists)
+	* [Announcements Box](#ann-box)
 *	**Links**
 	* [Name Link](#link-name)
 	* [CSS Classes](#link-class)
