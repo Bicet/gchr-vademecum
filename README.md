@@ -31,7 +31,7 @@ This vadecum is intended to be used a base for the course hosted on Global Campu
 		* [Vimeo](#vimeo)
 	* **Surveys**
 		* [Surveymonkey](#surveymonkey)
-		* [Google Forms] #googleforms)
+		* [Google Forms] (#googleforms)
 
 
  	 	
@@ -135,8 +135,8 @@ Whenever you find some texts missing or some incomplete part it will be nice to 
 &lt;/ul>
 </pre>
 
-###Unordered Lists
-####IE of Unordered list
+### Unordered Lists
+#### IE of Unordered list
 <img src="https://drive.google.com/uc?export=view&id=1p18T-dn2vxsOIwF59xD01b2nZbJir_N-" alt="image_description" />
 
 <pre>
