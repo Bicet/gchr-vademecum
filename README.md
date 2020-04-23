@@ -5,33 +5,33 @@ This vadecum is intended to be used a base for the course hosted on Global Campu
 
 # INDEX:
 * **Texts**
-	* [Copy/Paste from Word to open edX] (#copypaste)
+	* [Copy/Paste from Word to open edX](#copypaste)
 	* [Subtitles](#subtitles)
 	* [Missing part and/or attention needed](#missing)
-	* [Article quotes and/or tables] (#quote)
-	* [Ordered/Unordered, Nested, Bold Lists] (#lists)
+	* [Article quotes and/or tables](#quote)
+	* [Ordered/Unordered, Nested, Bold Lists](#lists)
 *	**Links**
-	* [Name Link] (#link-name)
-	* [CSS Classes] (#link-class)
+	* [Name Link](#link-name)
+	* [CSS Classes](#link-class)
 * **Media Embeds**
-	* [**MONK (TL;DR the solving problems script)**]  (#monk)
+	* [**MONK (TL;DR the solving problems script)**](#monk)
 	
 	* **Files and Folders**
-		* [Single File] (#single-file)
-		* [Single Folder] (#single-folder)
-		* [Multiple Browsable Folders] (#multiple-folders)
+		* [Single File](#single-file)
+		* [Single Folder](#single-folder)
+		* [Multiple Browsable Folders](#multiple-folders)
 	* **Images**
-		* [Gdrive] (#images-gdrive)
+		* [Gdrive](#images-gdrive)
 	* **Podcasts**
-		* [Soundcloud] (#soundcloud)
+		* [Soundcloud](#soundcloud)
 	* **Videos**
-		* [Youtube] (#youtube)
-		* [Facebook] (#facebook)
-		* [Twitter] (#twitter)
-		* [Vimeo] (#vimeo)
+		* [Youtube](#youtube)
+		* [Facebook](#facebook)
+		* [Twitter](#twitter)
+		* [Vimeo](#vimeo)
 	* **Surveys**
-		* [Surveymonkey] (#surveymonkey)
-		* [Google Forms] (#googleforms)
+		* [Surveymonkey](#surveymonkey)
+		* [Google Forms] #googleforms)
 
 
  	 	
