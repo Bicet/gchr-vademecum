@@ -240,13 +240,13 @@ Whenever you find some texts missing or some incomplete part it will be nice to 
 Usually you would not use a class for the anchor tag, but it may happen that you want to use different color for specific regions:
 
 <pre>
-&lt;p&gt;&lt;span class="<span style="color: #009fe3;">titolo_gc_europe</span>"><span style="color: #009fe3;">EUROPE</span>&lt;/span&gt&lt;/p>
-&lt;p&gt;&lt;span class="<span style="color: #69c8f3;">titolo_gc_south_east_europe</span>"><span style="color: #69c8f3;">SOUTH EAST EUROPE</span>&lt;/span&gt&lt;/p>
-&lt;p&gt;&lt;span class="<span style="color: #e6553d;">titolo_gc_caucasus</span>"><span style="color: #e6553d;">CAUCASUS</span>&lt;/span&gt&lt;/p>
-&lt;p&gt;&lt;span class="<span style="color: #f9bd00;">titolo_gc_africa</span>"><span style="color: #f9bd00;">SOUTH AFRICA</span>&lt;/span&gt&lt;/p>
-&lt;p&gt;&lt;span class="<span style="color: #ed6ea7;">titolo_gc_asia_pacific</span>"><span style="color: #ed6ea7;">ASIA PACIFIC</span>&lt;/span&gt&lt;/p>
-&lt;p&gt;&lt;span class="<span style="color: #be97c5;">titolo_gc_latin_america</span>"><span style="color: #be97c5;">LATIN AMERICA</span>&lt;/span&gt&lt;/p>
-&lt;p&gt;&lt;span class="<span style="color: #f08c22;">titolo_gc_arab</span>"><span style="color: #f08c22;">ARAB WORLD</span>&lt;/span&gt&lt;/p>
+&lt;p&gt;&lt;span class="<span style="color: #009fe3;">titolo_gc_europe</span>"><span style="color: #009fe3;">EUROPE</span>&lt;/span&gt;&lt;/p>
+&lt;p&gt;&lt;span class="<span style="color: #69c8f3;">titolo_gc_south_east_europe</span>"><span style="color: #69c8f3;">SOUTH EAST EUROPE</span>&lt;/span&gt;&lt;/p>
+&lt;p&gt;&lt;span class="<span style="color: #e6553d;">titolo_gc_caucasus</span>"><span style="color: #e6553d;">CAUCASUS</span>&lt;/span&gt;&lt;/p>
+&lt;p&gt;&lt;span class="<span style="color: #f9bd00;">titolo_gc_africa</span>"><span style="color: #f9bd00;">SOUTH AFRICA</span>&lt;/span&gt;&lt;/p>
+&lt;p&gt;&lt;span class="<span style="color: #ed6ea7;">titolo_gc_asia_pacific</span>"><span style="color: #ed6ea7;">ASIA PACIFIC</span>&lt;/span&gt;&lt;/p>
+&lt;p&gt;&lt;span class="<span style="color: #be97c5;">titolo_gc_latin_america</span>"><span style="color: #be97c5;">LATIN AMERICA</span>&lt;/span&gt;&lt;/p>
+&lt;p&gt;&lt;span class="<span style="color: #f08c22;">titolo_gc_arab</span>"><span style="color: #f08c22;">ARAB WORLD</span>&lt;/span&gt;&lt;/p>
 </pre>
 
 ## Media Embeds
