@@ -176,34 +176,34 @@ Whenever you find some texts missing or some incomplete part it will be nice to 
 &lt;ul <span style="color: #ff40ff;">class="number_list_bold"</span>&gt;
 	&lt;li&gt;Trafficking needs an element of movement, but not a movement across
 	        borders.&lt;/strong&gt;
-	  &lt;br&gt;<span style="color: #ff40ff;">&lt;span&gt;</span>There are two important points here:&lt;/span&gt;&lt;br&gt;
-	&lt;ul class="lista_con_pallini"&gt;
-	&lt;li&gt;
-		&lt;span&gt;Does trafficking need movement? There is an evolving debate on the
-	    necessity of movement in the crime of trafficking. Recently there has been
-	    a move to conflate trafficking with slavery and forced labour (both of
-	    which do not need movement). Though the &lt;em&gt;Travaux Preparatories&lt;/em&gt; for
-	    the Palermo Protocol (the official record of the negotiation during the
-	    drafting) note that the drafters saw an element of movement as compulsory
-	    for the definition, more recently the US government’s Trafficking in
-	    Person’s office and influential NGOs (such as Kevin Bales Free the
-	    Slaves and Anti-Slavery), all regard trafficking as a part of ‘modern
-	    day slavery.’
-		&lt;br&gt;For details of this debate see: Janie A. Chuang. 2014. “Exploitation
-	Creep and the Unmaking of Human Rights Law.” &lt;em&gt;American Journal of International Law&lt;/em&gt; 108: 609-649.
-		&lt;/span&gt;
-	&lt;/li&gt;
-	&lt;li&gt;
-		<span style="color: #ff40ff;">&lt;span&gt;</span>Trafficking within a country. Mostly media and counter trafficking
-	    represent trafficked victims as non citizens, as people who were taken
-	    across a border for exploitation. While this is the most common form of
-	    trafficking in Southeast Asia, there are trafficking pathways which are
-	    internal to a country. People are still trafficked from the countryside to
-	    the city, for example child domestic workers. Indigenous and minority
-	    groups are also vulnerable to internal trafficking. Another case is during
-	    disasters as there are concerns that people can be trafficked out of
-	    humanitarian camps.&lt;/span&gt;
-	 &lt;/li&gt;
+		&lt;br&gt;<span style="color: #ff40ff;">&lt;span&gt;</span>There are two important points here:&lt;/span&gt;&lt;br&gt;
+		&lt;ul class="lista_con_pallini"&gt;
+		&lt;li&gt;
+			&lt;span&gt;Does trafficking need movement? There is an evolving debate on the
+			necessity of movement in the crime of trafficking. Recently there has been
+			a move to conflate trafficking with slavery and forced labour (both of
+			which do not need movement). Though the &lt;em&gt;Travaux Preparatories&lt;/em&gt; for
+			the Palermo Protocol (the official record of the negotiation during the
+			drafting) note that the drafters saw an element of movement as compulsory
+			for the definition, more recently the US government’s Trafficking in
+			Person’s office and influential NGOs (such as Kevin Bales Free the
+			Slaves and Anti-Slavery), all regard trafficking as a part of ‘modern
+			day slavery.’
+			&lt;br&gt;For details of this debate see: Janie A. Chuang. 2014. “Exploitation
+		Creep and the Unmaking of Human Rights Law.” &lt;em&gt;American Journal of International Law&lt;/em&gt; 108: 609-649.
+			&lt;/span&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			<span style="color: #ff40ff;">&lt;span&gt;</span>Trafficking within a country. Mostly media and counter trafficking
+			represent trafficked victims as non citizens, as people who were taken
+			across a border for exploitation. While this is the most common form of
+			trafficking in Southeast Asia, there are trafficking pathways which are
+			internal to a country. People are still trafficked from the countryside to
+			the city, for example child domestic workers. Indigenous and minority
+			groups are also vulnerable to internal trafficking. Another case is during
+			disasters as there are concerns that people can be trafficked out of
+			humanitarian camps.&lt;/span&gt;
+		 &lt;/li&gt;
 &lt;/ul&gt;
 </pre>
 
@@ -223,7 +223,7 @@ Whenever you find some texts missing or some incomplete part it will be nice to 
 
 <p>When linking within the same document, the A element is set as follows.</p>
 
-</div>
+
 
 <pre>
 
