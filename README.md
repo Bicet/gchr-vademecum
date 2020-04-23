@@ -1,3 +1,27 @@
+<style>
+/*Floating Back-To-Top Button*/
+    #myBtn {
+        position: fixed;
+        bottom: 10px;
+        float: right;
+        right: 18.5%;
+        left: 77.25%;
+        max-width: 50px;
+        width: 100%;
+        font-size: 34px;
+        border-color: rgba(85, 85, 85, 0.2);
+        background-color: rgb(100,100,100);
+        padding: .5px;
+        border-radius: 4px;
+        
+
+    }
+/*On Hover Color Change*/
+    #myBtn:hover {
+        background-color: #7dbbf1;
+    }
+ 
+</style>
 # INDEX:
 * **Texts**
 	* [Copy/Paste from Word to open edX](#copypaste)
@@ -505,6 +529,6 @@ it should be similar to this:
 &lt;p>&lt;iframe src="<span style="color: #ff40ff;">https://docs.google.com/forms/d/e/1FAIpQLSeLoABZkKjglKUydauNag9nv6bDx0RT7bXv-7AoWnrL1zQ2jA/viewform?embedded=true</span>" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">&lt;/iframe>&lt;/p>
 </pre>
 
-
+<button id="myBtn"><a href="#top" style="color: white; text-decoration: none;">^</a></button>
 <!-- rev 10 - Initial Github release-->
 ##### 23 Apr. 2020 - Initial Github release
