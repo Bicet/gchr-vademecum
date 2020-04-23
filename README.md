@@ -31,7 +31,7 @@ This vadecum is intended to be used a base for the course hosted on Global Campu
 		* [Vimeo](#vimeo)
 	* **Surveys**
 		* [Surveymonkey](#surveymonkey)
-		* [Google Forms] (#googleforms)
+		* [Google Forms](#googleforms)
 
 
  	 	
