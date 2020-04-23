@@ -1,7 +1,6 @@
-# Vade Mecum open edX
+
 ##### 23 Apr. 2020 - Initial Github release
-<!-- rev 10 - Initial Github release-->
-This vadecum is intended to be used a base for the course hosted on Global Campus open edX platform.
+
 
 # INDEX:
 * **Texts**
@@ -510,3 +509,4 @@ it should be similar to this:
 &lt;p>&lt;iframe src="<span style="color: #ff40ff;">https://docs.google.com/forms/d/e/1FAIpQLSeLoABZkKjglKUydauNag9nv6bDx0RT7bXv-7AoWnrL1zQ2jA/viewform?embedded=true</span>" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">&lt;/iframe>&lt;/p>
 </pre>
 
+<!-- rev 10 - Initial Github release-->
