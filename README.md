@@ -228,10 +228,105 @@ Whenever you find some texts missing or some incomplete part it will be nice to 
 
 <a name="ann-box"></a>
 ## Announcements Box
-### Colored Announcements box
-#### IE of Colored announcements box
+### Colored Announcements boxes
+
+Announcements boxes are useful when you want to make a bold announcement.
+
+#### IE of Colored announcements boxes:
 <img src="assets/imgs/announcements-box.png" alt="image_description" />
 
+#### Code:
+```html
+<style>
+.announcements-box {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    transition: opacity 0.6s;
+    margin-bottom: 15px;
+    min-height: 50px;
+    border-radius: 4px;
+    font-size: 18px;
+    vertical-align: center;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: fff;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn: hover {
+    color: #75716e;
+}
+
+.primary {
+    background: #75716e;
+}
+
+.info {
+    background-color: #009fe3;
+}
+
+.success {
+    background: #15CD72;
+}
+
+.danger {
+    background: #e6553d;
+}
+
+.warning {
+    background: #f9bd00;
+}
+
+.muted {
+    background: #ECECEC;
+    color: #75716e;
+}
+</style>
+
+<div class="announcements-box primary">
+    <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span>
+    <strong>PRIMARY</strong><br><br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies quis arcu eget commodo. Etiam tempor lacus lorem, et ullamcorper odio interdum id. Morbi odio augue, porttitor eu posuere at, consequat eu augue. 
+</div>
+<p class="margin_bottom_20"></p>
+<div class="announcements-box info">
+    <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span>
+    <strong>INFO</strong><br><br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies quis arcu eget commodo. Etiam tempor lacus lorem, et ullamcorper odio interdum id. Morbi odio augue, porttitor eu posuere at, consequat eu augue. 
+</div>
+<p class="margin_bottom_20"></p>
+<div class="announcements-box success">
+    <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span>
+    <strong>SUCCESS</strong><br><br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies quis arcu eget commodo. Etiam tempor lacus lorem, et ullamcorper odio interdum id. Morbi odio augue, porttitor eu posuere at, consequat eu augue. 
+</div>
+<p class="margin_bottom_20"></p>
+<div class="announcements-box warning">
+    <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span>
+     <strong>WARNING</strong><br><br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies quis arcu eget commodo. Etiam tempor lacus lorem, et ullamcorper odio interdum id. Morbi odio augue, porttitor eu posuere at, consequat eu augue. 
+</div>
+<p class="margin_bottom_20"></p>
+<div class="announcements-box danger">
+    <span class="closebtn" onclick="this.parentElement.style.display='none';">×</span>
+     <strong>DANGER</strong><br><br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies quis arcu eget commodo. Etiam tempor lacus lorem, et ullamcorper odio interdum id. Morbi odio augue, porttitor eu posuere at, consequat eu augue. 
+</div>
+<p class="margin_bottom_20"></p>
+<div class="announcements-box muted">
+    <span class="closebtn muted" onclick="this.parentElement.style.display='none';">×</span>
+     <strong>MUTED</strong><br><br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies quis arcu eget commodo. Etiam tempor lacus lorem, et ullamcorper odio interdum id. Morbi odio augue, porttitor eu posuere at, consequat eu augue. 
+</div>
+```
 
 
 ## Links&Span
