@@ -2,23 +2,21 @@
 /*Floating Back-To-Top Button*/
     #myBtn {
         position: fixed;
-        bottom: 10px;
+        bottom: 30px;
         float: right;
-        right: 18.5%;
+        right: 10.5%;
         left: 77.25%;
         max-width: 50px;
-        width: 100%;
-        font-size: 34px;
-        border-color: rgba(85, 85, 85, 0.2);
-        background-color: rgb(100,100,100);
-        padding: .5px;
-        border-radius: 4px;
-        
-
+        width: 200px;
+        font-size: 36px;
+        border-color: rgba(65, 65, 65, 0.1);
+        background-color: rgb(100,100,100,0.6);
+       vertical-align: bottom;
+        border-radius: 5px;   
     }
 /*On Hover Color Change*/
     #myBtn:hover {
-        background-color: #7dbbf1;
+        background-color: #15638d;
     }
  
 </style>
@@ -529,6 +527,6 @@ it should be similar to this:
 &lt;p>&lt;iframe src="<span style="color: #ff40ff;">https://docs.google.com/forms/d/e/1FAIpQLSeLoABZkKjglKUydauNag9nv6bDx0RT7bXv-7AoWnrL1zQ2jA/viewform?embedded=true</span>" width="100%" height="700" frameborder="0" marginheight="0" marginwidth="0">&lt;/iframe>&lt;/p>
 </pre>
 
-<button id="myBtn"><a href="#top" style="color: white; text-decoration: none;">^</a></button>
+<button id="myBtn"><a href="#top" style="color: white; text-decoration: none; vertical-align:bottom;">^</a></button>
 <!-- rev 10 - Initial Github release-->
 ##### 23 Apr. 2020 - Initial Github release
