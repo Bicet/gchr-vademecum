@@ -13,6 +13,7 @@
         background-color: rgb(100,100,100,0.6);
        vertical-align: bottom;
         border-radius: 5px;   
+        padding: .2px;
     }
 /*On Hover Color Change*/
     #myBtn:hover {
