@@ -370,7 +370,7 @@ Usually you would not use a class for the anchor tag, but it may happen that you
 
 ## Media Embeds
 Usually you will have to embed different kind of media: Images, Videos, Podcasts and Files.
-Every hosting has it own set of rules, that can change in time so take this instructions with a grain of salt. The vade mecum will be updated regularly and will take changes into account: if you find some code not working please promptly report it ^_^
+Every hosting has it own set of rules, that can change in time so take these instructions with a grain of salt. The vade mecum will be updated regularly and will take changes into account: if you find some code not working please promptly report it ^_^
 
 ### MONK (TL;DR the solving problems script)
 <a name="monk"></a>
