@@ -226,6 +226,11 @@ Whenever you find some texts missing or some incomplete part it will be nice to 
 &lt;/ul&gt;
 </pre>
 
+<a name="ann-box"></a>
+## Announcements Box
+### Colored Announcements box
+#### IE of Colored announcements box
+<img src="assets/imgs/announcements-box.png" alt="image_description" />
 
 
 
