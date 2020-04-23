@@ -285,7 +285,7 @@ Monk is a quick tool lets you easily paste a shareable link from gdrive and obta
 1. Upload your file to GDrive
 2. Right click on the file from Gdrive and click on *Get shareable link*
 ![](https://drive.google.com/uc?export=view&id=1OiUlcy83eugjcaXnApGmlEwUYLefhl6g)
-3. Paste the shared link on [https://gchumanrights.org/monk/monk.php] (https://gchumanrights.org/monk/monk.php)
+3. Paste the shared link on [https://gchumanrights.org/monk/monk.php](https://gchumanrights.org/monk/monk.php)
 <img src="https://drive.google.com/uc?export=view&id=1YhGdjFd9g6mr6XRhGSPMAzygLSz2vlYi" alt="image_description" />
 3. Choose the type of link you need and click on the SEND button
 <img src="https://drive.google.com/uc?export=view&id=1FY7R7lS1AwDtzSCXC3iQgG3UOS3naktT" alt="image_description" />
@@ -357,7 +357,7 @@ Monk is a quick tool lets you easily paste a shareable link from gdrive and obta
 	
 	<pre>&lt;div class="box_horizontal_a4_container">
 		&lt;iframe class="box_horizontal_a4" src="https://gchumanrights.org/edxtools/z_gdrive_viewer.php?ID=<span style="color: #ff40ff;">1aAABmOzQV9IVp_lTOkd42_Rl3bgHjpUL</span>">&lt;/iframe>
-	&lt;/div></pre>			
+	&lt;/div></pre>
 5. Result should look similar to this:
 ![](https://drive.google.com/uc?export=view&id=1SHQFO4qAk9UTkT8C9MXupXBygG5RpeWE)
 
