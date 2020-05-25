@@ -28,10 +28,11 @@
 	* [Missing part and/or attention needed](#missing)
 	* [Article quotes and/or tables](#quote)
 	* [Ordered/Unordered, Nested, Bold Lists](#lists)
+    * [CSS Classes](#link-class)
 	* [Announcements Box](#ann-box)
 *	**Links**
 	* [Name Link](#link-name)
-	* [CSS Classes](#link-class)
+    * [CSS Classes](#link-class)
 * **Media Embeds**
 	* [**MONK (TL;DR the solving problems script)**](#monk)
 	
