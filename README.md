@@ -22,10 +22,9 @@
  
 </style>
 
-# DON'T USE UNDERLINED TEXT IF NOT LINKING TO SOMETHING
-
 # INDEX:
 * **Texts**
+    * [Underline Texts](https://xd.adobe.com/ideas/process/ui-design/use-underline-text-improve-ux/)
 	* [Copy/Paste from Word to open edX](#copypaste)
 	* [Subtitles](#subtitles)
 	* [Missing part and/or attention needed](#missing)
