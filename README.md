@@ -21,6 +21,9 @@
     }
  
 </style>
+
+# DON'T USE UNDERLINED TEXT IF NOT LINKING TO SOMETHING
+
 # INDEX:
 * **Texts**
 	* [Copy/Paste from Word to open edX](#copypaste)
@@ -57,7 +60,6 @@
 
  	 	
 <div style="page-break-after: always;"></div>
-# DON'T USE UNDERLINED TEXT IF NOT LINKING TO SOMETHING
 
 ## Texts
 <a name="copypaste"></a>
