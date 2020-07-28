@@ -30,6 +30,7 @@
 	* [Ordered/Unordered, Nested, Bold Lists](#lists)
     * [CSS Classes](#link-class)
 	* [Announcements Box](#ann-box)
+    * [FAQs](#faqs)
 *	**Links**
 	* [Name Link](#link-name)
     * [CSS Classes](#link-class)
@@ -328,7 +329,183 @@ Announcements boxes are useful when you want to make a bold announcement.
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultricies quis arcu eget commodo. Etiam tempor lacus lorem, et ullamcorper odio interdum id. Morbi odio augue, porttitor eu posuere at, consequat eu augue. 
 </div>
 ```
+<a name="faqs"></a>
+## FAQs for edX Courses
+### The working faqs
+```
+<style>
+    .xblock .xblock h2 {
+        font-weight: 300 !important;
+        text-transform: initial;
+        color: #75716e !important;
+        font-size: 24px;
+    }  
+    .h2faq{
+        font-size: 20px !important;
+        font-weight: 300 !important;
+        letter-spacing: 0px !important;
+        line-height: 30px !important;
+    }
+    .h3faq{
+        font-size: 16px !important;
+        font-weight: 300 !important;
+        letter-spacing: 0px !important;
+        line-height: 22px !important;
+        color: #646464 !important
+    }
+</style>  
+<div class="mod_faqpage description_page_programme_no_border no_margin_bottom block">
+        <article class="first even">
+            <h2 class="h2faq">Enrolment</h2>
 
+            <!--<section class="first even">
+                <h3 class="h3faq" id="how-do-i-enrol-in-the-course-44aac414">How do I enrol in the course?</h3>
+
+                <div class="ce_text block">
+                    <p>In order to enrol, please follow the instructions on our “<a href="education/e-learning/moocs/monitoring-the-human-rights-of-lgbti-persons/how-to-enrol.html">How to enrol</a>” webpage . This will then lead you to the OpenEdX course page. Once you are there, you can start the enrolment process by clicking the "enrol" button.</p>
+                </div>
+
+                
+            </section>-->
+
+            <section class="last odd">
+                <h3 class="h3faq" id="is-there-a-selection-procedure-to-participate-in-the-course-5a9b94ac">Is there a selection procedure to participate in the course?</h3>
+
+                <div class="ce_text block">
+                    <p>The course is a MOOC (Massive Open Online Course), which means we do not select participants on any basis. Rather, we welcome anyone who is interested in learning more about the topic to enrol and participate for free.</p>
+                </div>
+
+                
+            </section>
+
+           
+        </article>
+        
+        <article class="odd">
+            <h2 class="h2faq">Fees</h2>
+
+            <section class="first even">
+                <h3 class="h3faq" id="i-would-like-to-know-if-the-course-is-free-or-if-some-parts-are-to-be-paid-4b30d678">I would like to know if the course is free or if some parts are to be paid</h3>
+
+                <div class="ce_text block">
+                    <p>Our course is a MOOC (Massive Open Online Course), which means all components are open and totally free for anyone.</p>
+                </div>
+
+                
+            </section>
+
+            <section class="last odd">
+                <h3 class="h3faq" id="i-would-like-to-know-if-the-course-is-free-or-if-some-parts-are-to-be-paid-148-27d18db9">Do I need to pay any fee to attend the course?</h3>
+
+                <div class="ce_text block">
+                    <p>There are no registration or tuition fees. </p>
+                </div>
+
+                
+            </section>
+
+           
+        </article>
+        
+
+        <article class="odd">
+            <h2 class="h2faq">Accessibility</h2>
+
+            <section class="first last even">
+                <h3 class="h3faq" id="is-the-course-accessible-to-persons-with-disabilities-c132662c">Is the course accessible to persons with disabilities?</h3>
+
+                <div class="ce_text block">
+                    <p class="margin_bottom_20">We want all participants in our courses to enjoy a great learning experience and we strive to always improve accessibility. Each week of the course includes one or two video lectures with accompanying transcripts and reading materials. The texts are in PDF format, work at low bandwidths, are printable and can be zoomed to the desired size. Some readings may include pages from accessible websites. This makes all of them accessible to those who use assistive technology software such as screen readers. Likewise, weekly discussions and module quizzes can be completed through our platform which is accessible, for example, to people who use speech input, keyboard accessible controls or text to speech tools. For more details please visit <a class="titolo_gc_europe" href="https://www.edx.org/accessibility">EdX Website Accessibility Policy</a> &nbsp;</p>
+                </div>
+
+                
+            </section>
+
+           
+        </article>
+
+        <article class="even">
+            <h2 class="h2faq">Structure and content</h2>
+            
+            <section class="first last even">
+                <h3 class="h3faq" id="is-there-a-schedule-for-the-course-or-is-it-self-directed-e2186c8d">Is there a schedule for the course?</h3>
+
+                <div class="ce_text block">
+                    <p>The course is self-paced so participants can study in their own time. However, in order to enhance peer learning, interactive participation and self-assessment, weekly topics and discussions as well as module quizzes are proposed at set dates. In any case, they are all open until the end of the course to facilitate access and completion at any preferred time. For a detailed description of the schedule check the <a href="https://gchumanrights.org/education/e-learning/moocs/fundamental-rights-of-the-european-union/course-outline.html" target="_blank">course outline page</a> on our website.</p>
+                </div>
+
+                
+            </section>
+
+
+            <section class="first last even">
+                <h3 class="h3faq" id="is-there-a-schedule-for-the-course-or-is-it-self-directed-e2186c8d">I have a commitment in week 2. Would it be possible to work on it the following weeks?</h3>
+
+                <div class="ce_text block">
+                    <p>As the course is self-paced, the workload can be shifted from one week to the other. </p>
+                    <!-- Even the quizzes can be taken in a one week span, so that every participant can adjust it to his/her personal commitments. -->
+                </div>
+
+                
+            </section>
+            <!--<section class="first last even">
+                <h3 class="h3faq" id="is-there-a-schedule-for-the-course-or-is-it-self-directed-e2186c8d">How do I take part in discussions?</h3>
+
+                <div class="ce_text block">
+                    <p>Discussions are based on an initial question/prompt that refers to the content studied in a particular week and that usually gives you the opportunity to discuss, share examples, propose ideas, and interact with other participants. Participation in discussions is part of the learning process for all. Therefore, we trust each active participant will make meaningful contributions (so please note that a simple answer such as "I agree" will not be considered valid for the purpose of earning the certificate of participation). Due to the large number of participants, it might be difficult to follow all inputs, but you can easily search the discussion forum with keywords, names, issues, etc. Responses are also nested so that if you respond to another participant, you'll see the flow of your exchanges immediately below the initial input. At times it might be useful to create a group discussion if participants are particularly interested in further exchanges on a specific sub-issue. In such cases, the coordinating team will set up another discussion and interested participants will be able to join this one too.</p>
+                </div>
+
+                
+            </section>
+            <section class="first last even">
+                <h3 class="h3faq" id="is-there-a-schedule-for-the-course-or-is-it-self-directed-e2186c8d">Quizzes</h3>
+
+                <div class="ce_text block">
+                    <p>Quizzes are foreseen at the end of each Module in order for you to check your understanding and progress. They are based on 5 questions and require a score of 4/5 to pass. They consist of different types of questions (true/false; yes/no; multiple choice; multiple answer) and once open, they remain available until the end of the course. You can have unlimited attempts and can see what answers you got wrong/right. However, for a more effective and satisfactory learning experience we warmly encourage you to take the quizzes after having prepared for them properly and not at random. 
+
+</p>
+                </div>
+
+                
+            </section>
+            <section class="first last even">
+                <h3 class="h3faq" id="is-there-a-schedule-for-the-course-or-is-it-self-directed-e2186c8d">What are the requirements to complete the course? </h3>
+
+                <div class="ce_text block">
+                    <p>To successfully complete the course students must take part in 4 weekly discussions and pass 3 quizzes.</p>
+                </div>
+
+                
+            </section>-->
+
+
+           
+        </article>
+
+        
+
+        <article class="last even">
+            <h2 class="h2faq">Certificate of participation</h2>
+
+            <section class="first last even">
+                <h3 class="h3faq" id="what-do-i-need-to-do-to-get-the-certificate-of-participation-c1ac8fc6">If I complete the Course will I get the Certificate?</h3>
+
+                <div class="ce_text block">
+                    <p>At the end of the course you will not receive a certificate of participation.
+
+</p>
+
+                    <p>&nbsp;</p>
+                </div>
+
+                
+            </section>
+
+           
+        </article>
+    </div>
+
+```
 
 ## Links&Span
 
