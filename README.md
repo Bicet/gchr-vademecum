@@ -332,7 +332,7 @@ Announcements boxes are useful when you want to make a bold announcement.
 <a name="faqs"></a>
 ## FAQs for edX Courses
 ### The working faqs
-```
+```html
 <style>
     .xblock .xblock h2 {
         font-weight: 300 !important;
